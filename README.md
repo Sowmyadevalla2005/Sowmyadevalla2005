@@ -8,8 +8,6 @@
   - LinkedIn: [linkedin.com/in/sowmya-devalla](https://www.linkedin.com/in/sowmya-devalla)
   - GitHub: [github.com/Sowmyadevalla2005](https://github.com/Sowmyadevalla2005)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love teaching and have volunteered as a teaching assistant to help students prepare for their board exams through the Aksharamala Program.
-
 <!---
 Sowmyadevalla2005/Sowmyadevalla2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
