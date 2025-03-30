@@ -1,6 +1,6 @@
 👋 Hi, I’m @Sowmyadevalla2005
 
-- 👀 I’m interested in Data Science, Data Analytics, and Deep Learning.
+- 👀 I’m interested in Data Science, Gen AI, and Deep Learning.
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on innovative tech projects, especially those involving AI and machine learning.
 - 📫 How to reach me:
