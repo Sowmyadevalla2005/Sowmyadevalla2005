@@ -37,5 +37,3 @@ I'm always excited to:
 - ☕ Chat about tech trends over virtual coffee  
 
 📫 *"Seriously - no hesitation needed! Whether you have a question, opportunity, or just want to say hi, I'd love to hear from you."*  
-
-[![GitHub Stars](https://img.shields.io/github/stars/Sowmyadevalla2005?label=My%20Projects&style=social)](https://github.com/Sowmyadevalla2005)
