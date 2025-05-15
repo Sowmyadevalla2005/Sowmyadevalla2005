@@ -27,4 +27,4 @@
 - Distributed Systems  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sowmyadevalla2005&theme=dark)](https://git.io/streak-stats)  
-*"First solve the problem, then write the code." - John Johnson*
+
