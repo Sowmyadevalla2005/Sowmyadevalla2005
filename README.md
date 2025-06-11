@@ -30,6 +30,9 @@
 **🔧 Tools & Systems**  
 `SQL WorkBench` `Git` `VS Code` `Google Colab`  `Jupyter NoteBook`
 
+**💡 Core Computer Science**  
+`Object-Oriented Programming` `Database Management Systems` `Computer Networks` `Operating Systems`  
+
 ---
 
 ## 🌱 Currently Learning & Growing
@@ -44,11 +47,10 @@
 ## 💬 Let's Connect!  
 
 I'm a driven learner who's always excited to:  
-- 🤝 **Collaborate** on innovative AI/ML projects  
-- 💡 **Discuss** cutting-edge technologies and trends  
-- 🎯 **Contribute** to open-source initiatives  
-- 📚 **Learn** from experienced developers and researchers
-- ☕ **Chat** about anything from neural networks to web development
+- 🤝 **Collaborate**     
+- 🎯 **Contribute**
+- ☕ **Chat**
+- 📚 **Learn**
 
 📧 *"As someone who's passionate about both learning and building, I'd love to connect with fellow developers, researchers, and anyone interested in the exciting world of AI!"*
 
