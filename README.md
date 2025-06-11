@@ -49,8 +49,7 @@
 I'm a driven learner who's always excited to:  
 - 🤝 **Collaborate**     
 - 🎯 **Contribute**
-- ☕ **Chat**
-- 📚 **Learn**
+- ☕ **Chat** & 📚 **Learn**
 
 📧 *"As someone who's passionate about both learning and building, I'd love to connect with fellow developers, researchers, and anyone interested in the exciting world of AI!"*
 
