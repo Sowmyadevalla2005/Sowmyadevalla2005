@@ -6,11 +6,11 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-%23D14836?style=for-the-badge&logo=gmail)](mailto:sowmyadevalla49@gmail.com)
 
 🎓 **Currently pursuing B.Tech in CSE (AI/ML)** at Vasavi College of Engineering | **CGPA: 9.02**  
-🌟 *"I love building things that just work , I'm driven by the excitement of turning ideas into code!"*
+🌟 *"I love building things that just work -  from AI chatbots to full-stack applications, I'm driven by the excitement of turning ideas into code!"*
 
 ---
 
-## ⚡ Technical Arsenal    
+## ⚡ Technical Skills   
 
 **🤖 AI & Machine Learning**  
 `TensorFlow` `Keras` `PyTorch` `scikit-learn` `Hugging Face` `BERT`  `NLP` 
@@ -50,8 +50,6 @@ I'm a driven learner who's always excited to:
 - 🤝 **Collaborate**     
 - 🎯 **Contribute**
 - ☕ **Chat** & 📚 **Learn**
-
-📧 *"As someone who's passionate about both learning and building, I'd love to connect with fellow developers, researchers, and anyone interested in the exciting world of AI!"*
 
 ---
 
