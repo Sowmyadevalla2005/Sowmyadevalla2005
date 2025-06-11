@@ -13,22 +13,22 @@
 ## ⚡ Technical Arsenal    
 
 **🤖 AI & Machine Learning**  
-`TensorFlow` `Keras` `PyTorch` `scikit-learn` `Hugging Face` `BERT` `Computer Vision` `NLP` `RAG Systems`  
+`TensorFlow` `Keras` `PyTorch` `scikit-learn` `Hugging Face` `BERT`  `NLP` 
 
 **🐍 Python Ecosystem**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `OpenCV` `SMTP` `Streamlit`  
+`Pandas` `NumPy` `Matplotlib` `Streamlit`  
 
 **🌐 Full-Stack Development**  
-`MERN Stack` `React.js` `Node.js` `Express.js` `REST APIs` `JWT Authentication` `OAuth2`  
+`React.js` `Node.js` `Express.js` `REST APIs` `JWT Authentication` `OAuth2`  
 
 **🗄️ Database Technologies**  
-`MySQL` `PostgreSQL` `SQLite` `MongoDB` `ElasticSearch`  
+`MySQL` `SQLite` `MongoDB` 
 
 **💻 Programming Languages**  
-`Python` `Java` `SQL` `JavaScript` `HTML/CSS` `Bash/Shell Scripts`  
+`Python` `SQL` `JavaScript` `HTML/CSS`  
 
 **🔧 Tools & Systems**  
-`Linux` `Git/GitHub` `VS Code` `High-Performance Computing` `Agile`  
+`SQL WorkBench` `Git` `VS Code` `Google Colab`  `Jupyter NoteBook`
 
 ---
 
