@@ -33,44 +33,12 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 MultiPDF Chat Application with Generative AI
-- Built an AI-powered PDF chatbot using **Python, Streamlit, and Hugging Face**
-- Achieved **90%+ accuracy** with BERT embeddings for semantic search
-- Implemented **RAG principles** with sub-1 second latency
-- **Skills**: Generative AI, Prompt Engineering, NLP, Model Context Protocol
-
-### 🎭 AI-Powered Face Mask Detection System  
-- Developed CNN-based detection system with **98% accuracy**
-- Built automated data pipelines and REST API endpoints
-- Integrated real-time inference with alert systems
-- **Skills**: Computer Vision, TensorFlow, OpenCV, API Development
-
-### 🏠 Real Estate Analytics & Automation Platform
-- Full-stack MERN application with Python analytics backend
-- Processed 10K+ property listings with automated reporting
-- Optimized APIs achieving <300ms load times
-- **Skills**: Full-Stack Development, Data Analytics, System Integration
-
----
-
 ## 🌱 Currently Learning & Growing
 
 - **Advanced Deep Learning** techniques and architectures
-- **Cloud deployment** strategies (AWS/GCP)
-- **MLOps** and production ML workflows
+- **Cloud deployment** AWS
 - **System Design** for scalable applications
 - **Advanced Data Structures & Algorithms** (actively solving on LeetCode!)
-
----
-
-## 🏆 Achievements & Recognition
-
-- **CGPA: 9.02** in AI/ML specialization (Top performer)
-- **Accenture iAspire Gold** certification (Top 5%)
-- **NPTEL Python** and **Cisco C++** certifications
-- **96.3%** in intermediate studies (MPC stream)
 
 ---
 
