@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-%23D14836?style=for-the-badge&logo=gmail)](mailto:sowmyadevalla49@gmail.com)
 
 🎓 **Currently pursuing B.Tech in CSE (AI/ML)** at Vasavi College of Engineering | **CGPA: 9.02**  
-🌟 *"I love building things that just work - from AI chatbots to full-stack applications, I'm driven by the excitement of turning ideas into code!"*
+🌟 *"I love building things that just work , I'm driven by the excitement of turning ideas into code!"*
 
 ---
 
