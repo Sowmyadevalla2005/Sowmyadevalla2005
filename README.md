@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sowmya-devalla)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-%23D14836?style=for-the-badge&logo=gmail)](mailto:sowmyadevalla49@gmail.com)
 
-🎓 **Currently pursuing B.Tech in CSE (AI/ML)** at Vasavi College of Engineering | **CGPA: 9.02**  
+🎓 **Currently pursuing B.Tech in CSE (AI/ML)** at Vasavi College of Engineering | **CGPA: 9.04**  
 🌟 *"I love building things that just work -  from AI chatbots to full-stack applications, I'm driven by the excitement of turning ideas into code!"*
 
 ---
