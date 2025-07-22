@@ -2,7 +2,7 @@
 **AI/ML Engineering Student | Python Developer | Problem Solver**  
 *Final-year CSE student specializing in AI/ML, passionate about building intelligent systems that solve real-world problems*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sowmya-devalla) [![Email](https://img.shields.io/badge/Email-Reach_Out-%23D14836?style=for-the-badge&logo=gmail)](mailto:sowmyadevalla49@gmail.com) [![GitHub]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sowmya-devalla) [![Email](https://img.shields.io/badge/Email-Reach_Out-%23D14836?style=for-the-badge&logo=gmail)](mailto:sowmyadevalla49@gmail.com)
 
 🎓 **B.Tech CSE (AI/ML)** @ Vasavi College of Engineering | **CGPA: 9.04**
 
